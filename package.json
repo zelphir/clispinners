@@ -1,6 +1,6 @@
 {
-  "name": "spinnies",
-  "version": "0.4.3",
+  "name": "terminal-multi-spinners",
+  "version": "0.4.4",
   "description": "Create and manage multiple spinners in command-line interface programs",
   "main": "index.js",
   "scripts": {
@@ -24,15 +24,15 @@
     "command",
     "terminal"
   ],
-  "author": "Juan Bautista Carpanelli <juanbanelli@gmail.com>",
+  "author": "Roberto M <zelphir@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:jcarpanelli/spinnies.git"
+    "url": "git+ssh://git@github.com:zelphir/clispinners.git"
   },
   "bugs": {
-    "url": "https://github.com/jcarpanelli/spinnies/issues"
+    "url": "https://github.com/zelphir/clispinners/issues"
   },
-  "homepage": "https://github.com/jcarpanelli/spinnies#readme",
+  "homepage": "https://github.com/zelphir/clispinners#readme",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
